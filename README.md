@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/iphenelist">
-    <img src="https://komarev.com/ghpvc/?iphenelist=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=iphenelist&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
   <a href="https://github.com/iphenelist?tab=followers">
     <img src="https://img.shields.io/github/followers/iphenelist?label=Followers&style=social" alt="followers"/>
