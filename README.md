@@ -1,56 +1,45 @@
 # 👋 Hi, I'm Innocent Metumba
 
-Open-Source Contributor | Full-Stack Developer | Tanzania 🇹🇿
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 
-I enjoy contributing to projects that make technology accessible, practical, and impactful — especially tools for organizations, education, and community development.
-
----
-
-## 🌍 Open-Source Focus Areas
-
-- ERPNext & Frappe ecosystem
-- Business and healthcare systems
-- Developer tools
-- Community-driven software
-- Documentation improvements
+💻 Software Developer | 🚀 Full-Stack Developer | 🇹🇿 Tanzania  
 
 ---
 
-## 💻 Technical Expertise
+## ⚡ Tech Stack
 
-- Python (Django, Frappe)
-- REST APIs & integrations
-- Mobile apps with Flutter
-- Database architecture
-- Linux environments
-
----
-
-## 🤝 Why I Contribute
-
-I believe open-source software:
-
-✔ Accelerates innovation  
-✔ Empowers developers worldwide  
-✔ Supports organizations with limited resources  
-✔ Builds stronger technical communities  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Stats
 
-My repositories include:
+![Innocent's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
-- Custom ERP modules  
-- Mobile applications  
-- System automation tools  
-- Practical software solutions  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ---
 
-## 📫 Collaboration
+## 🔥 Contribution Streak
 
-I welcome contributions, discussions, and partnerships on meaningful projects.
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername)
 
-- GitHub: https://github.com/yourusername
-- Email: your.email@example.com
+---
+
+## 🚀 What I Build
+
+- Enterprise systems & integrations
+- ERPNext custom solutions  
+- Automation tools  
+
+---
+
+## 📫 Contact
+
+- Email: your.innocentphenelist@gmail.com
+- LinkedIn: https://www.linkedin.com/in/innocent-metumba/
