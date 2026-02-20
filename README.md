@@ -20,23 +20,12 @@
 
 ---
 
-## 🏢 Professional Overview
-
-💼 Software Developer currently work at **Aakatech Limited — Best Partner Africa 2025 🏆**
-
-I design and build high-performance software systems for organizations across healthcare, business, procurement, and digital services. My work focuses on reliability, scalability, and long-term maintainability.
-
-- 🔹 Enterprise application development  
-- 🔹 ERPNext customization & integration  
-- 🔹 Backend systems & APIs
-- 🔹 System architecture & database design  
-
----
-
 ## ⚡ Tech Stack
 
 ### 🧠 Languages & Frameworks
 <p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge"/>
@@ -58,22 +47,6 @@ I design and build high-performance software systems for organizations across he
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 </p>
-
----
-
-## 🚀 Key Expertise
-
-### 🏗️ Enterprise Systems
-- ERPNext implementation and customization  
-- Healthcare system integrations  
-- Procurement & tender management solutions  
-- Financial and administrative platforms  
-
-### 🔗 System Integration & Automation
-- Lab equipment ↔ ERP integrations  
-- Business workflow automation  
-- Data synchronization systems  
-- Custom APIs and middleware  
 
 ---
 
