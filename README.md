@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="https://github.com/iphenelist">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?iphenelist=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
   <a href="https://github.com/iphenelist?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/iphenelist?label=Followers&style=social" alt="followers"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Tanzania%20%F0%9F%87%B9%F0%9F%87%BF-green" alt="location"/>
   <img src="https://img.shields.io/badge/Company-Aakatech%20Limited-blue" alt="company"/>
