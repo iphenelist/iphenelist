@@ -52,18 +52,6 @@
 
 ---
 
-## 🤝 Collaboration & Opportunities
-
-I am open to:
-
-- Enterprise software projects  
-- Consulting engagements  
-- System integration work  
-- Long-term development partnerships  
-- Remote opportunities  
-
----
-
 ## 📫 Contact & Links
 
 <p>
@@ -79,7 +67,3 @@ I am open to:
 </p>
 
 ---
-
-<p align="center">
-  ⭐ <b>If you find my work valuable, consider following my profile.</b>
-</p>
