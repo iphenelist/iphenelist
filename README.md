@@ -40,14 +40,6 @@
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge"/>
 </p>
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-</p>
-
 ---
 
 ## 📊 GitHub Analytics
